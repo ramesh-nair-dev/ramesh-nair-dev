@@ -70,7 +70,7 @@ A **living knowledge base** of Low-Level Design with notes + code.
 
 ## 📫 Let’s Connect  
 - ✉️ Email: **ramesh200212@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/ramesh-nair](#)  
+- 💼 LinkedIn: [linkedin.com/in/ramesh-nair](https://www.linkedin.com/in/rameshofficial/)  
 - 🌐 GitHub: [github.com/ramesh-nair-dev](https://github.com/ramesh-nair-dev)  
 
 ---
