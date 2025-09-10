@@ -51,7 +51,7 @@ Spring Boot **Eureka Server** for service registry & discovery.
 
 ---
 
-### 🚪 [API Gateway](https://github.com/ramesh-nair-dev/ApiGateway)  
+### 🚪 [API Gateway](https://github.com/ramesh-nair-dev/APIGatewayService)
 A **Spring Cloud Gateway service** acting as a single entrypoint.  
 - Centralized routing & config ⚡  
 - Lightweight, production-ready 🌱  
