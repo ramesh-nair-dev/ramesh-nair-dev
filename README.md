@@ -4,7 +4,8 @@
 
 🚀 **Backend Engineer | Java & Spring Boot | System Design Enthusiast**  
 Passionate about building scalable, maintainable systems — from microservices to clean architectures.  
-Dreaming (and working) towards becoming an **SDE at a great company** where I can solve real problems and make life delightful through tech.  
+Dreaming (and working) towards becoming an **SDE at a great company** where I can solve real problems and make life delightful through tech.
+Currently expanding into AI Agent systems to stay ahead in the AI-driven engineering era.
 
 ---
 
@@ -65,6 +66,13 @@ A **living knowledge base** of Low-Level Design with notes + code.
 - Real-world implementations: TicTacToe, Parking Lot, BookMyShow, SplitWise 🎮  
 - Shows depth: not just coding, but **engineering systems** 🏗️  
 
+---
+
+### 🤖 [Ai-Agent](https://github.com/ramesh-nair-dev/Ai-Agent-Learning)
+ Exploring how **Large Language Models (LLMs)** evolve into tool-using agents.
+- LLaMA-3 via Groq API as the agent’s “brain” 🧠
+- Tools: calculator, file reader, time fetcher, web search, email sender 🛠️
+- Agent loop: LLM decides when to call tools & executes 🔄
 
 ---
 
